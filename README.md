@@ -1,0 +1,1 @@
+# splendor.jquery.app
